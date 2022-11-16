@@ -56,5 +56,3 @@ CREATE TABLE titles (
 	FOREIGN KEY (emp_no) REFERENCES salaries (emp_no),
 	PRIMARY KEY (emp_no)
 );
-
-SELECT * FROM departments;
