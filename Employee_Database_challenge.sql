@@ -1,10 +1,11 @@
+-- Create list of employees that were born between 1952 and 1955
 SELECT e.emp_no,
     e.first_name,
 	e.last_name,
     t.title,
     t.from_date,
 	t.to_date
--- INTO retirement_titles
+INTO retirement_titles
 FROM employees as e
 INNER JOIN titles as t
 ON (e.emp_no = t.emp_no)
