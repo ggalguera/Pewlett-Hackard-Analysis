@@ -5,11 +5,11 @@ A Data Analysis was performed by importing employee data using PostgreSQL and PG
 
 ## Results
 During this analysis we ran 4 different SQL queries.
-* Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
+* Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955 (Top 10).
 
 ![Retirement Titles](https://github.com/ggalguera/Pewlett-Hackard-Analysis/blob/main/retirement_title_table.png)
 
-* Unique Titles table that contains the employee number, first and last name, and most recent title.
+* Unique Titles table that contains the employee number, first and last name, and most recent title (Top 10).
 
 ![Unique Titles](https://github.com/ggalguera/Pewlett-Hackard-Analysis/blob/main/unique_title_table.png)
 
@@ -17,7 +17,7 @@ During this analysis we ran 4 different SQL queries.
 
 ![Retiring Titles table](https://github.com/ggalguera/Pewlett-Hackard-Analysis/blob/main/unique_retirement_titles.png)
 
-* Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.
+* Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program (Top 10).
 
 ![Mentorship Eligibility](https://github.com/ggalguera/Pewlett-Hackard-Analysis/blob/main/mentorship_elegibility.png)
 
