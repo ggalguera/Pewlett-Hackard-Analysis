@@ -30,6 +30,6 @@ Base on current data Pewlett-Hackard will need to fill a total of 72,458 possiti
 To answer the question if there are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are enough experienced employees to mentor the next generation but there are only 1,549 employees elegible for the mentorship program, the company we will need to have external hires to fill all required positions.
 
-### then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-We can create a table to show how many elegible for mentorship program there are per department.
+### Additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+We can create a table to show how many emloyees are retiting by department.
 We also can create a table that shows the total amount of elegible for mentorship employees by title.
